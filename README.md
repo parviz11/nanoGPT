@@ -1,0 +1,2 @@
+# nanoGPT
+nanoGPT by Karpathy
